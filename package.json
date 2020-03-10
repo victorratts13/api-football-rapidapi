@@ -1,0 +1,49 @@
+{
+  "name": "api-football-rapidapi",
+  "version": "1.0.0",
+  "description": "biblioteca de requisição API-Football",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/api-football-rapidapi.git"
+  },
+  "keywords": [
+    "football",
+    "api",
+    "rapidapi",
+    "api-football",
+    "api",
+    "football",
+    "jogo",
+    "game",
+    "bola",
+    "futebal",
+    "chuta-bola",
+    "jogos",
+    "aposta",
+    "bet365",
+    "bets",
+    "apostadores",
+    "linha",
+    "de",
+    "aposta",
+    "api",
+    "para",
+    "aposta",
+    "apostas",
+    "de",
+    "futbal"
+  ],
+  "author": "Victor Ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorratts13/api-football-rapidapi/issues"
+  },
+  "homepage": "https://github.com/victorratts13/api-football-rapidapi#readme",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
